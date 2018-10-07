@@ -29,3 +29,7 @@ g8 file://play-scala-seed.g8/ --name=my-seed-test --force
 ```
 
 Will create an example template called `my-seed-test`, for example.
+
+## What is different from original repo?
+
+ * Using [Default SBT layout](https://www.playframework.com/documentation/2.6.x/Anatomy#Default-SBT-layout)
